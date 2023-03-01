@@ -21,4 +21,4 @@ else
 {
     Console.WriteLine("Большее число" + " " + b);
     Console.WriteLine("Меньшее число" + " " + a);
-}
+} 
